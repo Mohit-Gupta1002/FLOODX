@@ -16,8 +16,7 @@ body {
   overflow-x: hidden;
 }
 
-/* Leaflet map styles */
-@import 'leaflet/dist/leaflet.css';
+/* Leaflet map container styles */
 
 .leaflet-container {
   width: 100%;
